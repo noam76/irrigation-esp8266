@@ -3,6 +3,11 @@ This project is a smart irrigation system that use an ESP8266 microcontroller to
 All data are display online in web page
 
 ## The system uses the following components:
+- These libraries need to be installed: 
+  - Ticker (you can use anotyher way instead ticker , example millis, don't forget to make the relative change)
+  - WiFiManager
+  - ArduinoJson from michel blanchon
+  - Adafruit_MCP23X17
 - 1 ESP8266 Nodemcu V3
 - 1 Pump 12V
 - 15 solenoids 5v/12V

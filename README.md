@@ -1,5 +1,5 @@
 # Smart Irrigation Plant System with ESP8266
-This project is a smart irrigation system that use an ESP8266 microcontroller to monitoring multiple soil humidity, multiple solenoids and control a water pump to ensure that plants receive the right amount of water.
+This project is a smart irrigation system that use an ESP8266 microcontroller to monitoring multiple soil humidity, multiple solenoids and control a water pump to ensure that each plants receive the right amount of water.
 All data are display online in web page
 
 ## The system uses the following components:
